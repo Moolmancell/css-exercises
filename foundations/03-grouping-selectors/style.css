@@ -1,0 +1,12 @@
+.me, .me-not {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif
+}
+
+.me {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.me-not {
+    background-color: blanchedalmond;
+}
